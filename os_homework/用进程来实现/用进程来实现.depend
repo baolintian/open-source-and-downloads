@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526376047 source:c:\users\宝宝天龙\desktop\刷题堆\用进程来实现\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<windows.h>
+	"var.h"
+
+1526372194 c:\users\宝宝天龙\desktop\刷题堆\用进程来实现\var.h
+	<bits/stdc++.h>
+	<windows.h>
+
