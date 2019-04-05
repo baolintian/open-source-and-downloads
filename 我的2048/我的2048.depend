@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478842113 source:d:\codeblock文件\我的2048\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
